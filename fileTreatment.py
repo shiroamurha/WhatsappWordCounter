@@ -77,7 +77,7 @@ def dump_to_xlsx():
 
 
 if __name__ == '__main__':
+    main()
+    dump_chat()
+    dump_frequency()
     dump_to_xlsx()
-    # main()
-    # dump_chat()
-    # dump_frequency()
